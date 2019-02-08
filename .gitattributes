@@ -1,1 +1,2 @@
-*.swift linguist-vendored=false
+*.js linguist-vendored
+
